@@ -4,10 +4,9 @@ namespace Application
 {
 	public class Animal
 	{
-		int nbDePattes;
 
 		public void creeAnimal(){
-			nbDePattes = 5;
+			// implémentation à prévoir...
 		}
 
 	}
