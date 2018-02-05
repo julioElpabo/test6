@@ -10,6 +10,7 @@ namespace Application
 
 		bool estContent = false;
 
+		string nomFichier;
 
 
 		public EmptyClass ()
@@ -21,6 +22,8 @@ namespace Application
 			int test = 5;
 			test += 3;
 			test = 0;
+
+			nomFichier = "tralala";
 		}
 
 		public void ouvre(){
