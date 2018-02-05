@@ -30,6 +30,8 @@ namespace Application
 			bool estOuvert = false;
 			int couleurIndex;
 			string nom;
+
+			nomFichier = "autre chose";
 		}
 
 	}
